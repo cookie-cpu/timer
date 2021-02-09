@@ -10,3 +10,10 @@ for (const char of input) {
     process.stdout.write('\x07');
   }, char * 1000);
 }
+
+//Edge Cases
+/*
+[x] No numbers are provided
+[ ] An input is negative
+[ ] Input is not a num
+*/
